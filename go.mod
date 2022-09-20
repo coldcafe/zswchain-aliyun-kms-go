@@ -1,4 +1,4 @@
-module github.com/zhongshuwen/zswchain-aliyun-kms-go
+module github.com/coldcafe/zswchain-aliyun-kms-go
 
 go 1.15
 
