@@ -1,4 +1,4 @@
-module github.com/zhongshuwen/zswchain-tencent-kms-go
+module github.com/zhongshuwen/zswchain-aliyun-kms-go
 
 go 1.15
 
